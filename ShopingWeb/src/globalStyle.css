@@ -1,0 +1,19 @@
+:root {
+    --color1: #921A40;
+    --color2: #C75B7A;
+    --color3: #D9ABAB;
+    --color4: #F4D9D0;
+    --color5: #FFF;
+}
+
+.style_button {
+    border-color: var(--color2);
+    color: var(--color5);
+    background-color: var(--color2);
+}
+
+.style_button:hover {
+    background-color: var(--color5);
+    color: var(--color1);
+    border-color: var(--color1);
+}

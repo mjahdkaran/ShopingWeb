@@ -1,0 +1,41 @@
+.card_image {
+    height: 250px;
+    width: 250px;
+    object-fit: fill;
+}
+
+.card_body {
+    margin-top: 15px;
+    /* border-top: 1px solid var(--color3); */
+}
+
+.card_title {
+    color: var(--color1);
+}
+
+.card_text {
+    color: var(--color3);
+
+}
+
+.card_price {
+    font: 20px;
+    font-weight: bolder;
+    color: var(--color1);
+
+}
+
+
+
+.card_footer {
+    position: relative;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.card_footer p {
+    color: var(--color2);
+}

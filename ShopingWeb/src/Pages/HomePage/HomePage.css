@@ -1,0 +1,13 @@
+.container {
+    /* background-color: #D9ABAB; */
+    background-color: #921A40 !important;
+
+
+}
+
+.cards_holder {
+    background-color: var(--color3) !important;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

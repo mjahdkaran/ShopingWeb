@@ -1,0 +1,16 @@
+.navbar_container {
+    background-color: var(--color4);
+
+}
+
+.shearch_button {
+    border-color: var(--color2);
+    color: var(--color5);
+    background-color: var(--color2);
+}
+
+.shearch_button:hover {
+    background-color: var(--color5);
+    color: var(--color1);
+    border-color: var(--color1);
+}
